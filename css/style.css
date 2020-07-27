@@ -1,0 +1,22 @@
+body {
+    background: rgb(0, 153, 255);
+margin-left: 20px;
+margin-right: 20px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: green;
+    font-family: cursive;
+}
+
+.imagens_padrao {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+}
